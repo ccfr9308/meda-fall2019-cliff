@@ -1,0 +1,6 @@
+Colors for website:
+Background: Red
+Header and body: Gold
+Link text: Blue
+
+Red and Gold are 49ers colors (my favorite team) and the link color differentiates heavily from those to underscore the different links.
