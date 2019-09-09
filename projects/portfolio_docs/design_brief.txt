@@ -4,3 +4,42 @@ Header and body: Gold
 Link text: Blue
 
 Red and Gold are 49ers colors (my favorite team) and the link color differentiates heavily from those to underscore the different links.
+
+HOME
+(Picture, display links)
+
+ABOUT ME
+Cliff Reilly is an American composer and conductor.  He started with handbells at the age of 8 and quickly grew into an accomplished musician while studying with the Bay Bells Handbell Ensemble, Bell Appeal, and private study.  He conducted his first piece at the age of 14 with the Peninsula Girls Chorus.  He graduated from International High School in San Francisco with a higher level in music.
+
+Since then Cliff has transitioned into the choral world after studying at the prestigious Walden School for creative composers, and graduated in 2011 with a degree in music from Bucknell University in Pennsylvania.  Cliff has been a member of numerous a cappella groups from small to large sizes and has written over 20 arrangements for these groups.  He currently resides in San Francisco, CA with his wife and two dogs.  In his spare time he enjoys reading, website design and beer.
+
+CONTACT
+--Cliff Reilly, 415.806.2240, cliffreilly@gmail.com
+
+PROJECTS
+--"Nocturne for a Setting Sun"--Alto, Cello and Handbells
+--Links to Beyond Unison recordings and videos
+--Links to arrangements
+
+Images
+--Images of Cliff conducting
+
+
+Sample portfolios:
+https://jorgeatgu.com/  
+Header--web, blog, mapas--GitHub, Twitter, Casto, CodePen
+Main--"Data Designer"
+Footer--Contact info, Copyright 2012-2019
+
+Likes: Content is clearly laid-out, good spanish translations
+Dislikes: Footer could be fleshed out with other links
+
+https://www.colingrist.com/
+Header--Colin Grist, Portfolio, Profile, Blog, Contact
+Main--"Colin Grist is an award-winning freelance designer and developed based in Leeds, England
+Footer--Contact info, Social Media Links, copyright
+
+Likes: Page split into three easy sections, very minimalist
+Dislikes: Overflow settings
+
+
