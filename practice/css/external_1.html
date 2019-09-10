@@ -5,9 +5,17 @@
   <meta charset="utf-8">
 
   <title>Externally linked CSS Files</title>
-  
+ 
+  <link rel="stylesheet" href="reset.css" type="text/css" />
 <link rel="stylesheet" href="external_1.css"/>
 
+<style>
+    h1 {
+        font-size: 75px;
+    }
+    </style>
+
+<link rel="stylesheet" href="external_1.css"/>
 </head>
 
 <body id="firstpage">
@@ -15,7 +23,8 @@
     <div id="container">
 
         <header><h1>Welcome to this practice web page.</h1></header>
-        <main><p>This is the main text of the website.  It should be really long and detailed.</p>
+        <!--Inline CSS example-->
+        <main><p style="font-family: 'Helvetica', sans-serif; font-size: 50px !important; font-size: 100px;">This is the main text of the website.  It should be really long and detailed.</p>
             <h1>This is after the long paragraph</h1>
             <p id="special">This paragraph is special</p>
         </main>

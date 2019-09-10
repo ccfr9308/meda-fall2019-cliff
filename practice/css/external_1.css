@@ -12,11 +12,11 @@ body {
 }
 
 #secondpage h1 {
-    color: red
+    color: red;
 }
-header {
-    color: white;
-    font-size: 24px;
+
+h1 {
+    font-size: 100px;
 }
 
 main {
