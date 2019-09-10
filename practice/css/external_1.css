@@ -1,0 +1,39 @@
+body {
+    background-color:grey;
+}
+
+#firstpage {
+    background-color: fuchsia;
+
+}
+
+#secondpage {
+    background-color: green
+}
+
+#secondpage h1 {
+    color: red
+}
+header {
+    color: white;
+    font-size: 24px;
+}
+
+main {
+    color: cyan;
+    font-size: 24px;
+
+}
+
+main h1 {
+    font-size: 24px;
+}
+
+footer {
+    color: yellow;
+    font-size: 18px;
+}
+
+#special {
+    font-style: italic;
+}
