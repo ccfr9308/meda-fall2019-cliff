@@ -1,0 +1,60 @@
+/* Global */
+
+#container {
+    background-color: grey;
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+}
+
+header, main, footer {
+    margin: 10px;
+}
+
+/* Header Start */
+
+header {
+    background-color:whitesmoke;
+    height: 200px;
+    margin-top: 0;
+}
+
+/*Header End */
+
+/*Main Start*/
+
+main {
+    background-color: whitesmoke;
+    height: 500px;
+    padding-top: 10px;
+}
+
+#main-gallery {
+    background-color: peachpuff;
+    height: 300px;
+    margin: 0 10px 10px 10px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+#main-gallery > div {
+    background-color: white;
+    width: 30%;
+    height: 100%;
+    display: inline-block;
+    margin: 10px;
+}
+
+/*Main End*/
+
+/*Footer Start */
+
+footer {
+    background-color:whitesmoke;
+    height: 100px;
+    margin-bottom: 0px;
+
+}
+/*Footer End */
