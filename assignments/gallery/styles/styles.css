@@ -71,6 +71,8 @@ main {
 }
 
 #grid-gallery div:first-child {
+    display: block;
+    width: 10px;
     grid-row-start: 1;
     grid-row-end: 2;
     grid-column-start: 1;
