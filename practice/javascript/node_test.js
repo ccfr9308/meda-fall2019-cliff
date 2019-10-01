@@ -96,4 +96,37 @@ var other = "another string" * 100;
 
 //The + operator has two usages.  The second one is called concatination.
 var wholeSentence = "My name is " + "Eduardo"
-console.log (wholeSentence)
+console.log (wholeSentence);
+
+//Good use of concatination
+
+var userName = "Johnathan";
+var sentencePart1 = "Hello there,";
+var sentencePart2 = "How are you doing?";
+
+var complete = sentencePart1 + userName + sentencePart2;
+
+console.log (complete);
+
+//Using variables to do math on changing data.
+
+var num1 = 7;
+var num2 = 40;
+
+var sum1 = num1 + num2;
+var difference1 = num1 - num2;
+var difference2 = num2 - num1;
+
+//Redefining Variables.
+var createdVariable;
+createdVariable = 100;
+
+// createdVariable was already defined;
+//var createdVariable = 100;
+
+//Order of Operations
+
+var someValue= 10 - 30 / 6 * 3;
+//8,-8
+//
+console.log(someValue)
