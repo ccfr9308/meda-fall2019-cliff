@@ -39,6 +39,7 @@ weekNames.unshift("Tuesday");
 weekNames.unshift ("Monday");
 //weekNames.unshift("Monday", "Tuesday",)
 
+//Removes from end
 weekNames.pop();
 weekNames.pop ();
 
@@ -51,3 +52,38 @@ weekNames.unshift(day);
 console.log (weekNames);
 
 //weekNames.unshift( weekNames.pop())
+
+// Challenge end
+
+//Array Method Splice(), designed to extract a part of an array.
+//weekNames.splice(3, 1);
+var splitArray = weekNames.splice(3, 2);
+
+console.log (splitArray);
+
+//Add values to array manually by specifying the index number
+splitArray [2] = "Friday"
+
+console.log (splitArray);
+
+//Update values to array by specifying the index number.
+splitArray[0] = "Whensday";
+
+console.log(splitArray);
+
+//Assign a value to an index that doesn't exist yet.
+splitArray[10] = "Hiddenday";
+
+console.log(splitArray);
+
+var names = ["Alpha", "Sam", "Max", "Georgio", "Guerremo", "Horacio", "Batman", "Bill", "Mackaw", "Robin"]
+
+
+                      //Instead of 10, we use.length so we always loop for the exact number of items of the names array.
+for (var counter = 0; counter < names.length; counter = counter + 1) {
+    console.log ("Hello" + names[counter] + "!");
+}
+
+//for (var i = 0; i <10; i++) {
+
+}
